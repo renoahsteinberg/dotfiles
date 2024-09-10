@@ -1,0 +1,19 @@
+terminal = kitty
+text_editor = nvim
+code_editor = vscode
+prompt = /
+launch_menus = rofi
+browsers = firefox, brave
+
+file_manager = /
+cursor = /
+wallpapers = /
+icons = /
+
+status_bar = /
+screenshots = /
+clipboard = /
+logout = /
+idle_manager = /
+screenlock = /
+theme_manager = /
