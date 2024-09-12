@@ -1,3 +1,4 @@
-** These Dotfiles cant be used yet and are still on development,
-** i don't use alot of my spare time making them, but they will be finished
-** by the end of this year
+
+# clay-dotfiles
+
+These Dotfiles cant be used yet and are still on development, i don't have alot of spare time, but they will/should be finished by the end of this year
